@@ -6,20 +6,20 @@
     - 3.8% 玉山 U Bear[^ubear]
     - 3.5% Line Bank
     - 3% 富邦 J卡
-    - 6% 台新 @GoGo [^gogo]
+    - 6% 台新 @GoGo(週六) [^gogo]
 - 街口支付 JKOPAY
     - 5% 遠東 快樂卡[^happy]
     - 3.8% 玉山 U Bear[^ubear]
-    - 6% 台新 @GoGo [^gogo]
+    - 6% 台新 @GoGo(週六) [^gogo]
 - Pi 拍錢包
     - 5% 遠東 快樂卡[^happy]
     - 4% 玉山 Pi[^pi4%] (指定 5%[^pi5%])
     - 3.8% 玉山 U Bear[^ubear]
-    - 6% 台新 @GoGo [^gogo]
+    - 6% 台新 @GoGo(週六) [^gogo]
 - 悠遊付 Easy Wallet
     - 5% 遠東 快樂卡[^happy]
     - 3.8% 玉山 U Bear[^ubear]
-    - 6% 台新 @GoGo [^gogo]
+    - 6% 台新 @GoGo(週六) [^gogo]
 
 [^happy]: 筆筆消費享5%刷卡金 消費上限 6,000 元 (每戶每月回饋上限300元) [活動期間：2022/1/1~2022/3/31](https://www.feib.com.tw/upload/creditcard/HappyCardRed/page2.html)
 
