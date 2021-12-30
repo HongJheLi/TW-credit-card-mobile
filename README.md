@@ -36,6 +36,6 @@
 
 [^pi5%]: 玉山 Pi 指定通路：PChome旅遊、台灣大車隊、有無外送、MiTCH 時尚選貨電商
 
-[^tpay]: 活動期間每實體卡每月回饋上限新臺幣(下同)100元 每月回饋總金額上限60萬元 達當月活動回饋總金額上限 即停止回饋 [活動期間：111年1月1日起至111年12月31日](https://www.twmp.com.tw/News_detail/5befb248f3194cecb4dba23b0bb30bef)
+[^tpay]: 台灣Pay 活動期間每實體卡每月回饋上限新臺幣(下同)100元 每月回饋總金額上限60萬元 達當月活動回饋總金額上限 即停止回饋 [活動期間：111年1月1日起至111年12月31日](https://www.twmp.com.tw/News_detail/5befb248f3194cecb4dba23b0bb30bef)
 
-[^sk]:  指定數位 2% 每期 500 元 消費上限 25,000 [活動期間: 2022/01/01~2022/06/30](https://www.skbank.com.tw/CCO_1_detail.html?preferenceId=B386)
+[^sk]: 新光 寰宇 指定數位 2% 每期 500 元 消費上限 25,000 [活動期間: 2022/01/01~2022/06/30](https://www.skbank.com.tw/CCO_1_detail.html?preferenceId=B386)
