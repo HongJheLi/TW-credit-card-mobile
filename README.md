@@ -4,7 +4,7 @@
 - LINE Pay
     - 5% 遠東 快樂卡[^happy]
     - 3.8% 玉山 U Bear[^ubear]
-    - 3.5% LINE Bank快點卡
+    - 3.5% LINE Bank 快點卡
     - 3% 富邦 J卡
     - 6% 台新 @GoGo(週六) [^gogo]
 - 街口支付 JKOPAY
