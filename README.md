@@ -1,5 +1,4 @@
-# TW-credit-card-mobile
-臺灣行動支付信用卡整理
+臺灣行動支付信用卡整理 2022
 
 - LINE Pay
     - 5% 遠東 快樂卡[^happy]
